@@ -1,15 +1,7 @@
 # Hi, I'm Saeed 👋
 
-I'm a 16-year-old self-taught developer from Monroeville, PA, currently 
-working through the University of Helsinki's Python Programming MOOC. 
-My goal is to become a professional software developer, building a 
-portfolio while working toward a computer science degree through 
-community college and transfer.
+I'm a 16-year-old from Monroeville, PA, working toward a career in cybersecurity — currently studying for my CompTIA A+ certification.
 
 ## What I'm working on
-- Working through the University of Helsinki Python Programming MOOC
-- Building a portfolio of deployed, real-world Python projects
-- Learning data structures, functions, and program logic
-
-## Projects
-Portfolio in progress — first project (a BMI/Health Calculator) coming soon.
+- Studying for CompTIA A+ (Core 1 & Core 2)
+- Building toward Network+, Security+, and CySA+
